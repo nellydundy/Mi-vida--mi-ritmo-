@@ -1,0 +1,21 @@
+
+[
+    {
+        "titulo": "Receta de Ensalada Saludable",
+        "imagen": "ensalada.jpg",
+        "descripcion": "Una receta fresca y natural.",
+        "archivo": "receta-ensalada.html"
+    },
+    {
+        "titulo": "Mascarilla Casera para la Piel",
+        "imagen": "mascarilla.jpg",
+        "descripcion": "Belleza natural desde casa.",
+        "archivo": "mascarilla-belleza.html"
+    },
+    {
+        "titulo": "Bienestar y Fitness",
+        "imagen": "fitness.jpg",
+        "descripcion": "Motivación para tu cuerpo y mente.",
+        "archivo": "fitness-bienestar.html"
+    }
+]
